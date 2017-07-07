@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sidekey</string>
+    <string name="sidekey_title">Sideslip key</string>
+    <string name="sidekey_singleclick">SingleClick</string>
+    <string name="sidekey_longclick">LongClick</string>
+    <string name="text_item_open">on</string>
+    <string name="text_item_close">off</string>
+    <string-array name="quickoperate_setting_list_name">
+        <item>None</item>
+        <item>Start recording</item>
+        <item>Back camera</item>
+        <item>Turn on flashlight</item>
+        <item>Screenshot</item>
+        <item>SilentMode</item>
+        <item>Front camera</item>
+    </string-array>
+    <string name="text_quickoperate_title">Quick operate</string>
+    <string name="text_pickapp_title">Open application</string>
+    <string name="text_callrecorder">Call Recording</string>
+    <string name="text_callrecorder_summary">Click sideslip key to start recording</string>
+    <string name="text_switch_camera">Switch Camera</string>
+    <string name="text_switch_camera_summary">Click sideslip key to switch the camera</string>
+    <string name="preference_title_none">none</string>
+
+</resources>

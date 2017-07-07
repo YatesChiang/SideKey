@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sidekey</string>
+    <string name="sidekey_title">Tecla desplazable</string>
+    <string name="sidekey_singleclick">Click</string>
+    <string name="sidekey_longclick">Click Largo</string>
+    <string name="text_item_open">ON</string>
+    <string name="text_item_close">OFF</string>
+    <string-array name="quickoperate_setting_list_name">
+        <item>None</item>
+        <item>Start recording</item>
+        <item>Fast camera</item>
+        <item>Turn on flashlight</item>
+        <item>Screenshot</item>
+        <item>SilentMode</item>
+    </string-array>
+    <string name="text_quickoperate_title">Operación rápida</string>
+    <string name="text_pickapp_title">Abrir Aplicación</string>
+    <string name="text_callrecorder">Grabación de llamadas</string>
+    <string name="text_callrecorder_summary">Haga un clic para iniciar la grabación</string>
+    <string name="text_switch_camera">Cambiar Cámara</string>
+    <string name="text_switch_camera_summary">Haga un clic para cambiar la cámara</string>
+    <string name="preference_title_none">none</string>
+
+</resources>

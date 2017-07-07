@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phím chuyển đổi</string>
+    <string name="sidekey_title">Phím chuyển đổi</string>
+    <string name="sidekey_singleclick">Gạt 1 lần</string>
+    <string name="sidekey_longclick">Gạt và giữ</string>
+    <string name="text_item_open">Mở</string>
+    <string name="text_item_close">Đóng</string>
+    <string-array name="quickoperate_setting_list_name">
+        <item>Không</item>
+        <item>Ghi âm</item>
+        <item>Mở camera</item>
+        <item>Bật đèn pin</item>
+        <item>Chụp màn hình</item>
+        <item>Chế độ im lặng</item>
+    </string-array>
+    <string name="text_quickoperate_title">Chức năng hệ thống</string>
+    <string name="text_pickapp_title">Mở ứng dụng</string>
+    <string name="text_callrecorder">Thu âm cuộc gọi</string>
+    <string name="text_callrecorder_summary">Gạt phím để thu âm cuộc gọi</string>
+    <string name="text_switch_camera">Chuyển camera trước sau</string>
+    <string name="text_switch_camera_summary">Gạt phím để chuyển camera trước sau</string>
+    <string name="preference_title_none">Không</string>
+
+</resources>

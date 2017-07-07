@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:descendantFocusability="blocksDescendants">
+    
+    <LinearLayout android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:paddingLeft="10dp">
+
+        <ImageView android:id="@+id/operate_apps_icon"
+            android:layout_width="22dp"
+            android:layout_height="22dp"/>
+
+    </LinearLayout>
+
+    <TextView android:id="@+id/operate_apps_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:textColor="#000000"
+        android:textSize="18sp"/>
+    
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:gravity="right">
+        <RadioButton android:id="@+id/operate_apps_radio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="25dp"
+            android:button="@drawable/radio_button"/>
+    </LinearLayout>
+</LinearLayout>

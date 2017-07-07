@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">侧滑键</string>
+    <string name="sidekey_title">侧滑键</string>
+    <string name="sidekey_singleclick">单击</string>
+    <string name="sidekey_longclick">长按</string>
+    <string name="text_item_open">开</string>
+    <string name="text_item_close">关</string>
+    <string-array name="quickoperate_setting_list_name">
+        <item>无操作</item>
+        <item>启动录音</item>
+        <item>后置相机</item>
+        <item>打开手电筒</item>
+        <item>截屏</item>
+        <item>静音模式</item>
+        <item>前置相机</item>
+    </string-array>
+    <string name="text_quickoperate_title">快速操作</string>
+    <string name="text_pickapp_title">打开应用</string>
+    <string name="text_callrecorder">通话录音</string>
+    <string name="text_callrecorder_summary">通话中单击侧滑键启动录音</string>
+    <string name="text_switch_camera">切换摄像头</string>
+    <string name="text_switch_camera_summary">相机预览界面单击侧滑键切换摄像头</string>
+    <string name="preference_title_none">无操作</string>
+
+</resources>

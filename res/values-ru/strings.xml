@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sidekey</string>
+    <string name="sidekey_title">Дополнительная кнопка</string>
+    <string name="sidekey_singleclick">Быстрое нажатие</string>
+    <string name="sidekey_longclick">Удерживая кнопку</string>
+    <string name="text_item_open">on</string>
+    <string name="text_item_close">off</string>
+    <string-array name="quickoperate_setting_list_name">
+        <item>Нет</item>
+        <item>Диктофон</item>
+        <item>Камера</item>
+        <item>Фонарик</item>
+        <item>Скриншот</item>
+        <item>Без звука</item>
+        <item>Селфи</item>
+    </string-array>
+    <string name="text_quickoperate_title">Быстрые</string>
+    <string name="text_pickapp_title">Приложения</string>
+    <string name="text_callrecorder">Запись звонка</string>
+    <string name="text_callrecorder_summary">Нажмите чтобы начать запись</string>
+    <string name="text_switch_camera">Переключение камеры</string>
+    <string name="text_switch_camera_summary">Нажмите чтобы переключить камеру</string>
+    <string name="preference_title_none">none</string>
+
+</resources>

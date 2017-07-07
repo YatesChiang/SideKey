@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <drawable name="dkgray">#80808FF0</drawable>
+    <drawable name="yello">#F8F8FF00</drawable>
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="darkgray">#938192</drawable>
+    <drawable name="lightgreen">#7cd12e</drawable>
+    <drawable name="black">#ff000000</drawable>
+    <drawable name="blue">#ff0000ff</drawable>
+    <drawable name="cyan">#ff00ffff</drawable>
+    <drawable name="gray">#ff888888</drawable>
+    <drawable name="green">#ff00ff00</drawable>
+    <drawable name="ltgray">#ffcccccc</drawable>
+    <drawable name="magenta">#ffff00ff</drawable>
+    <drawable name="red">#ffff0000</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="yellow">#ffffff00</drawable>
+
+    <item type="drawable" name="mask">#eeeeeeee</item>
+    <item type="drawable" name="background">#ffe8e8e8</item>
+    <item type="drawable" name="background_first">#fff1f1f1</item>
+    <item type="drawable" name="background_second">#ffffffff</item>
+    <item type="drawable" name="gray_black">#ff818181</item>
+    <item type="drawable" name="oneclick_page_item_title">#ff236e89</item>
+
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#21272B</color>
+</resources>
